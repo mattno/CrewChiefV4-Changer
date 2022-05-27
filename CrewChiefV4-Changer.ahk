@@ -40,8 +40,8 @@ Games := [ { exe: "rFactor2.exe", pid: 0, cc: "RF2" }
 , { exe: "acs.exe", pid: 0, cc: "ASSETTO_64BIT" }
 , { exe: "AC2-Win64-Shipping.exe", pid: 0, cc: "ACC" }
 , { exe: "RRRE64.exe", pid: 0, cc: "RACE_ROOM" }
-, { exe: "AMS.exe", pid: 0, cc: "AMS" } ]
-
+, { exe: "AMS.exe", pid: 0, cc: "AMS" }
+, { exe: "iRacingSim64DX11.exe", pid: 0, cc: "IRACING" } ]
 
 sleep_time := 2000
 Loop {

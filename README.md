@@ -8,3 +8,11 @@ In case CrewCheifV4 is not installed in default locations, start CrewChiefV4-Cha
 argument `--crewchief-path "PATH_TO_CREWCHIEF_EXECUTABLE"`
 
 Note: Enable `run immediately` from within _Properties_.
+
+## Limitations
+Not all games are supported, due to lack of `-game` command line argument.
+
+Also, I don't own all games and do not know the executable to watch for. Please provide info for missing excutables.
+
+
+

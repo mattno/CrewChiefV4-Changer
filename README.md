@@ -6,3 +6,5 @@ Download asset from releases. Place anywhere and launch.
 
 In case CrewCheifV4 is not installed in default locations, start CrewChiefV4-Changer using command line
 argument `--crewchief-path "PATH_TO_CREWCHIEF_EXECUTABLE"`
+
+Note: Enable `run immediately` from within _Properties_.
